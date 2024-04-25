@@ -1,5 +1,5 @@
 const text =
-  "Dear Pathan Insha Khan ,  I wnna Say Something.         you are a smart girl, but you never give me appointments on time!!!! kindly give me an appointment at the earliest possible time....   Looking forward to see you!!!! Byeeee Thankyou";
+  "Hey there, Tanaaaz! 🌟 Just a little note to remind you how incredibly special you are to me. You're not just my best friend, you're my confidante, my partner-in-crime, and my source of endless joy! Here's to all the laughter, the adventures, and the countless memories we've shared—and to the many more yet to come! Thanks for being the amazing friend that you are. Sending you all the hugs and high-fives in the world!";
 
 const paragraph = text.split("");
 
